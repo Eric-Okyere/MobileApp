@@ -26,9 +26,8 @@ const styles = StyleSheet.create({
   All:{
     backgroundColor:"pink",
     flex:1,
-    display:"flex",
-    
-    alignItems:"center"
+    alignItems:"center",
+   
   },
 image:{
   width:100,
@@ -42,7 +41,7 @@ image:{
 textlabels:{
 flexDirection:"row",
 margin:1,
-marginLeft:6
+marginHorizontal:6
 },
 
 label:{
